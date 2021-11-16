@@ -1,0 +1,18 @@
+
+
+.app_header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.app_status{
+  display:flex;
+  justify-content:space-evenly;
+  margin: 20px;
+}
+.app{
+  margin: 24px;
+  background-color: aliceblue;
+  /* display: flex; */
+  justify-content: space-evenly;
+}
